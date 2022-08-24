@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
+# Primeiro desafio da DIO - Criação de repositório
 Primeiro Desafio Bootcamp Linux
